@@ -6,6 +6,8 @@ Algoritmo Mitades_Y_Cuartos
 	C<-M*2
 	Escribir  "La cantidad de cuartos que equivalen a " M " Mitades es " C
 	
+	Escribir "Vamos con GIT HUB"
+	
 	
 	
 FinAlgoritmo
