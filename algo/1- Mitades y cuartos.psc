@@ -8,6 +8,9 @@ Algoritmo Mitades_Y_Cuartos
 	
 	Escribir "Vamos con GIT HUB"
 	
-	Escrbir"holaaa"
+	EscrIbir "holaaa";
 	
+	Leer j
+	
+	Escribir ,j
 FinAlgoritmo
