@@ -13,5 +13,5 @@ Algoritmo Mitades_Y_Cuartos
 	Leer j
 	
 	Escribir ,j
-	Escribir "finance lo mejor"
+	Escribir "frinance lo mejor"
 FinAlgoritmo
